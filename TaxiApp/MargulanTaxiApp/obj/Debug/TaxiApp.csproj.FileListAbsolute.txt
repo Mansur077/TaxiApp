@@ -1,0 +1,87 @@
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\bin\Debug\MargulanTaxiApp.exe.config
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\bin\Debug\MargulanTaxiApp.exe
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\bin\Debug\MargulanTaxiApp.pdb
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\bin\Debug\MySql.Data.dll
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\bin\Debug\Google.Protobuf.dll
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\bin\Debug\Zstandard.Net.dll
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\bin\Debug\Renci.SshNet.dll
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\bin\Debug\System.Memory.dll
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\bin\Debug\System.Buffers.dll
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\bin\Debug\MySql.Data.xml
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\obj\Debug\TaxiApp.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.exe.config
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.AddCar.resources
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.AddOrder.resources
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.MainForm.resources
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.Properties.Resources.resources
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.ShowResults.resources
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\obj\Debug\TaxiApp.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\obj\Debug\TaxiApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\obj\Debug\TaxiApp.csproj.CopyComplete
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.exe
+C:\Users\user\OneDrive\Рабочий стол\3 semestr\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.pdb
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\bin\Debug\MargulanTaxiApp.exe.config
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\bin\Debug\MargulanTaxiApp.exe
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\bin\Debug\MargulanTaxiApp.pdb
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\bin\Debug\Zstandard.Net.dll
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\bin\Debug\Renci.SshNet.dll
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\bin\Debug\System.Memory.dll
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\bin\Debug\System.Buffers.dll
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\bin\Debug\MySql.Data.xml
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\obj\Debug\TaxiApp.csproj.AssemblyReference.cache
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\obj\Debug\TaxiApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.exe.config
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.AddCar.resources
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.AddOrder.resources
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.MainForm.resources
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.Properties.Resources.resources
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.ShowResults.resources
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\obj\Debug\TaxiApp.csproj.GenerateResource.cache
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\obj\Debug\TaxiApp.csproj.CoreCompileInputs.cache
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\obj\Debug\TaxiApp.csproj.CopyComplete
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.exe
+C:\Users\Танир\Desktop\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.pdb
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\bin\Debug\MargulanTaxiApp.exe.config
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\bin\Debug\MargulanTaxiApp.exe
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\bin\Debug\MargulanTaxiApp.pdb
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\bin\Debug\Zstandard.Net.dll
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\bin\Debug\Renci.SshNet.dll
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\bin\Debug\System.Memory.dll
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\bin\Debug\System.Buffers.dll
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\bin\Debug\MySql.Data.xml
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\obj\Debug\TaxiApp.csproj.AssemblyReference.cache
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\obj\Debug\TaxiApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.exe.config
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.AddCar.resources
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.AddOrder.resources
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.MainForm.resources
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.Properties.Resources.resources
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.ShowResults.resources
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\obj\Debug\TaxiApp.csproj.GenerateResource.cache
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\obj\Debug\TaxiApp.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\obj\Debug\TaxiApp.csproj.CopyComplete
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.exe
+C:\Users\Админ\Downloads\TaxiApp (1)\TaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.pdb

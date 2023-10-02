@@ -1,0 +1,32 @@
+C:\Users\Asanali\Coding\MargulanTaxiApp\MargulanTaxiApp\bin\Debug\MargulanTaxiApp.exe.config
+C:\Users\Asanali\Coding\MargulanTaxiApp\MargulanTaxiApp\bin\Debug\MargulanTaxiApp.exe
+C:\Users\Asanali\Coding\MargulanTaxiApp\MargulanTaxiApp\bin\Debug\MargulanTaxiApp.pdb
+C:\Users\Asanali\Coding\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.Properties.Resources.resources
+C:\Users\Asanali\Coding\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.csproj.GenerateResource.cache
+C:\Users\Asanali\Coding\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.exe
+C:\Users\Asanali\Coding\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.pdb
+C:\Users\Asanali\Coding\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.MainForm.resources
+C:\Users\Asanali\Coding\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.csprojAssemblyReference.cache
+C:\Users\Asanali\Coding\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.AddCar.resources
+C:\Users\Asanali\Coding\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.AddOrder.resources
+C:\Users\Asanali\Coding\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.ShowResults.resources
+C:\Users\Asanali\Coding\MargulanTaxiApp\MargulanTaxiApp\bin\Debug\MySql.Data.dll
+C:\Users\Asanali\Coding\MargulanTaxiApp\MargulanTaxiApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Asanali\Coding\MargulanTaxiApp\MargulanTaxiApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Asanali\Coding\MargulanTaxiApp\MargulanTaxiApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Asanali\Coding\MargulanTaxiApp\MargulanTaxiApp\bin\Debug\Renci.SshNet.dll
+C:\Users\Asanali\Coding\MargulanTaxiApp\MargulanTaxiApp\bin\Debug\MySql.Data.xml
+C:\Users\Asanali\Coding\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.csproj.CopyComplete
+C:\Users\Asanali\Desktop\Projects\Archive_Uni\archive winforms\Archive work 12.04.2020\MargulanTaxiApp\MargulanTaxiApp\bin\Debug\MargulanTaxiApp.exe.config
+C:\Users\Asanali\Desktop\Projects\Archive_Uni\archive winforms\Archive work 12.04.2020\MargulanTaxiApp\MargulanTaxiApp\bin\Debug\MargulanTaxiApp.exe
+C:\Users\Asanali\Desktop\Projects\Archive_Uni\archive winforms\Archive work 12.04.2020\MargulanTaxiApp\MargulanTaxiApp\bin\Debug\MargulanTaxiApp.pdb
+C:\Users\Asanali\Desktop\Projects\Archive_Uni\archive winforms\Archive work 12.04.2020\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.csprojAssemblyReference.cache
+C:\Users\Asanali\Desktop\Projects\Archive_Uni\archive winforms\Archive work 12.04.2020\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.AddCar.resources
+C:\Users\Asanali\Desktop\Projects\Archive_Uni\archive winforms\Archive work 12.04.2020\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.AddOrder.resources
+C:\Users\Asanali\Desktop\Projects\Archive_Uni\archive winforms\Archive work 12.04.2020\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.MainForm.resources
+C:\Users\Asanali\Desktop\Projects\Archive_Uni\archive winforms\Archive work 12.04.2020\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.Properties.Resources.resources
+C:\Users\Asanali\Desktop\Projects\Archive_Uni\archive winforms\Archive work 12.04.2020\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.ShowResults.resources
+C:\Users\Asanali\Desktop\Projects\Archive_Uni\archive winforms\Archive work 12.04.2020\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.csproj.GenerateResource.cache
+C:\Users\Asanali\Desktop\Projects\Archive_Uni\archive winforms\Archive work 12.04.2020\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.csproj.CoreCompileInputs.cache
+C:\Users\Asanali\Desktop\Projects\Archive_Uni\archive winforms\Archive work 12.04.2020\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.exe
+C:\Users\Asanali\Desktop\Projects\Archive_Uni\archive winforms\Archive work 12.04.2020\MargulanTaxiApp\MargulanTaxiApp\obj\Debug\MargulanTaxiApp.pdb
